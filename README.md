@@ -1,4 +1,4 @@
-# fiNERweb
+# FiNERweb
 A multilingual NER dataset covering 91 languages and 25 scripts. See our paper (coming) for details!
 
 ## Get Started
