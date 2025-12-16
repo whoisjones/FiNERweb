@@ -3,7 +3,8 @@ A multilingual NER dataset covering 91 languages and 25 scripts. See our paper (
 
 ## Get Started
 
-We host all materials on the [huggingface-hub](https://huggingface.co/collections/whoisjones/finerweb)! 
+We host all materials on the [huggingface-hub](https://huggingface.co/collections/whoisjones/finerweb)!
+The code for the project can be found [here](https://github.com/whoisjones/FiNERweb-code)!
 
 **How to load the datasets**
 ```python
