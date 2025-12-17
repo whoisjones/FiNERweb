@@ -1,5 +1,5 @@
 # FiNERweb
-A multilingual NER dataset covering 91 languages and 25 scripts. See our paper (coming) for details!
+A multilingual NER dataset covering 91 languages and 25 scripts. See our [paper](https://arxiv.org/abs/2512.13884) for details!
 
 ## Get Started
 
@@ -69,8 +69,15 @@ from transformers import AutoModelForSequenceClassification, AutoTokenizer
 - [FiNERweb-multi](https://huggingface.co/datasets/whoisjones/fiNERweb-multi) (multilabel)
 
 ## Citation
-If you find our work useful, please consider citing our paper!
-
+If you find our work useful, please consider citing our [paper](https://arxiv.org/abs/2512.13884)!
 ```
-tbd.
+@misc{golde2025finerwebdatasetsartifactsscalable,
+      title={FiNERweb: Datasets and Artifacts for Scalable Multilingual Named Entity Recognition}, 
+      author={Jonas Golde and Patrick Haller and Alan Akbik},
+      year={2025},
+      eprint={2512.13884},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2512.13884}, 
+}
 ```
